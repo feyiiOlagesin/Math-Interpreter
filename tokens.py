@@ -1,6 +1,7 @@
 from enum import Enum
 from dataclasses import dataclass
 
+#using enums to distinguish the various token types
 class TokenType(Enum):
     NUMBER = 0
     PLUS = 1
