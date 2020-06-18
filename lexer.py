@@ -1,3 +1,4 @@
+# Lexer class
 from tokens import TokenType, Token
 
 WHITESPACE = ' \n\t'

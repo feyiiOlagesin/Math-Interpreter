@@ -1,3 +1,5 @@
+# test cases for the interpreter class and methods
+
 import unittest
 from nodes import *
 from interpreter import Interpreter

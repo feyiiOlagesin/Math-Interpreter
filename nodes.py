@@ -1,3 +1,4 @@
+# nodes class
 from dataclasses import dataclass
 
 @dataclass

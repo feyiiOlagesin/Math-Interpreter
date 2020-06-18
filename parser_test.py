@@ -1,3 +1,5 @@
+# test cases for the parser class and methods
+
 import unittest
 from tokens import Token, TokenType
 from parser_ import Parser
